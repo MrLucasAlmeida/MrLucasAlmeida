@@ -29,8 +29,8 @@
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlucasalmeida&theme=tokyonight" alt="mrlucasalmeida" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlucasalmeida&theme=tokyonight" alt="mrlucasalmeida" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlucasalmeida&show_icons=true&locale=en&theme=tokyonight" alt="mrlucasalmeida" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrlucasalmeida&show_icons=true&locale=en&theme=tokyonight" alt="mrlucasalmeida" /></p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://https://github.com/MrLucasAlmeida)
