@@ -1,0 +1,22 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrlucasalmeida&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrlucasalmeida" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlucasalmeida&theme=tokyonight" alt="mrlucasalmeida" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlucasalmeida&show_icons=true&locale=en&theme=tokyonight" alt="mrlucasalmeida" /></p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://https://github.com/MrLucasAlmeida)
+
+
+
+Sources:
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+https://github.com/shravan20/github-readme-quotes
+
+https://github.com/anuraghazra/github-readme-stats
+
