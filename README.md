@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I was born in Brazil.**
 
+- 📄 Know about my experiencesm [resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:cc22ebdd-afa0-4e56-878b-3ea236f652bb)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mr-lucas-almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-lucas-almeida" height="30" width="40" /></a>
