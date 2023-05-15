@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://rishavchanda.io) -->
 ![Header](./new_image.png)
-<h1 align="center">Hi 👋, I'm Lucas Almeida</h1>
+<h1 align="center">Lucas Almeida</h1>
 <h3 align="center">Computer Science student studying at the University of Arizona.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I was born in Brazil.**
 
-- 📄 Learn more about my experiences [Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:ebd303fd-e326-3d3a-8963-1875bb171272)
+- 📄 Learn more about my experiences [Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:85ad2795-841e-323c-bca3-78ba0b528da3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
