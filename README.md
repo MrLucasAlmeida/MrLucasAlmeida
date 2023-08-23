@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I was born in Brazil.**
 
-- 📄 Learn more about my experiences [Resume](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:85ad2795-841e-323c-bca3-78ba0b528da3)
+- 📄 Learn more about my experiences [Resume](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f81aa13c-68d4-3848-bb25-26fb634414e1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
