@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **finding an intership.**
 
-- ⚡ Fun fact **I was born in Brazil.**
-
 - 📄 Learn more about my experiences [Resume](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:dee1885a-43e9-3a3e-81b6-680ccb6bcf44)
 
 <h3 align="left">Connect with me:</h3>
@@ -26,8 +24,7 @@
 
 
 ### Some of my Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/mrlucasalmeida?theme=dark&ext=activity)
-<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mrlucasalmeida?theme=dark&ext=activity)](https://leetcode.com/MrLucasAlmeida/)
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrlucasalmeida&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrlucasalmeida" /></p>
