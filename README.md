@@ -24,7 +24,6 @@
 
 
 ### Some of my Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mrlucasalmeida?theme=dark&ext=activity)](https://leetcode.com/MrLucasAlmeida/)
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrlucasalmeida&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrlucasalmeida" /></p>
